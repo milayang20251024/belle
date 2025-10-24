@@ -1,0 +1,41 @@
+{
+  "name": "Belle的每日記帳本",
+  "short_name": "Belle記帳",
+  "description": "輕鬆管理每月支出的記帳本",
+  "start_url": "./Belle_5_0薰衣紫_完整修正版.html",
+  "display": "standalone",
+  "background_color": "#cec6f3",
+  "theme_color": "#cec6f3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "新增記帳",
+      "short_name": "記帳",
+      "description": "快速新增一筆記帳",
+      "url": "./Belle_5_0薰衣紫_完整修正版.html#add",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}
