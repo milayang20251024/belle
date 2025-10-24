@@ -2,7 +2,7 @@
   "name": "Belle的每日記帳本",
   "short_name": "Belle記帳",
   "description": "輕鬆管理每月支出的記帳本",
-  "start_url": "./Belle_5_0薰衣紫_完整修正版.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#cec6f3",
   "theme_color": "#cec6f3",
